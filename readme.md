@@ -1,4 +1,4 @@
-## 🔗Project 1 Link
+## 🔗Project 3 Link
 
 https://project-3-live-link.netlify.app/
 
@@ -29,5 +29,3 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
 ## 📌 Acknowledgments
 
 - Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-  👉 Various CSS Selectors like child selector, pseudo selector, nth-child selector, etc.
-  👉 Putting background image using after and before pseudo selector.
